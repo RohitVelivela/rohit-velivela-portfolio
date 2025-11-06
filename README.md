@@ -1,12 +1,4 @@
-# 🚀 My Portfolio Website
 
-Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
-
-### Live preview: https://www.abhijitzende.com/
-
-https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
-
-This project is **inspired** by the amazing work of [Velivela Rohit Kumar](https://github.com/Velivela-Rohit-Kumar/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Rohit! 🙏
 
 ## 🔥 Features
 
